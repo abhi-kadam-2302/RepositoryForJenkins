@@ -1,0 +1,7 @@
+C:\Users\Abhi's Laptop\Desktop\LTI\GET 864\C#\Day 2\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.exe.config
+C:\Users\Abhi's Laptop\Desktop\LTI\GET 864\C#\Day 2\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.exe
+C:\Users\Abhi's Laptop\Desktop\LTI\GET 864\C#\Day 2\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.pdb
+C:\Users\Abhi's Laptop\Desktop\LTI\GET 864\C#\Day 2\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.csprojAssemblyReference.cache
+C:\Users\Abhi's Laptop\Desktop\LTI\GET 864\C#\Day 2\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.csproj.CoreCompileInputs.cache
+C:\Users\Abhi's Laptop\Desktop\LTI\GET 864\C#\Day 2\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.exe
+C:\Users\Abhi's Laptop\Desktop\LTI\GET 864\C#\Day 2\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.pdb

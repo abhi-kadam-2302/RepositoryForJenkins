@@ -125,7 +125,8 @@ namespace CaseStudy1
             app.Scenario2();            
             app.scenario3();            
             app.scenario4();
-
+            
+            Console.WriteLine("Hi");
             Console.Read();
         }
     }
